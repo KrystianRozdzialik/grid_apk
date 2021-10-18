@@ -1,0 +1,20 @@
+C:\2TP\grid apka\grid apka\bin\Debug\netcoreapp3.1\grid apka.exe
+C:\2TP\grid apka\grid apka\bin\Debug\netcoreapp3.1\grid apka.deps.json
+C:\2TP\grid apka\grid apka\bin\Debug\netcoreapp3.1\grid apka.runtimeconfig.json
+C:\2TP\grid apka\grid apka\bin\Debug\netcoreapp3.1\grid apka.runtimeconfig.dev.json
+C:\2TP\grid apka\grid apka\bin\Debug\netcoreapp3.1\grid apka.dll
+C:\2TP\grid apka\grid apka\bin\Debug\netcoreapp3.1\grid apka.pdb
+C:\2TP\grid apka\grid apka\obj\Debug\netcoreapp3.1\grid apka.csproj.AssemblyReference.cache
+C:\2TP\grid apka\grid apka\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\2TP\grid apka\grid apka\obj\Debug\netcoreapp3.1\App.g.cs
+C:\2TP\grid apka\grid apka\obj\Debug\netcoreapp3.1\grid apka_MarkupCompile.cache
+C:\2TP\grid apka\grid apka\obj\Debug\netcoreapp3.1\grid apka_MarkupCompile.lref
+C:\2TP\grid apka\grid apka\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\2TP\grid apka\grid apka\obj\Debug\netcoreapp3.1\grid apka.g.resources
+C:\2TP\grid apka\grid apka\obj\Debug\netcoreapp3.1\grid apka.GeneratedMSBuildEditorConfig.editorconfig
+C:\2TP\grid apka\grid apka\obj\Debug\netcoreapp3.1\grid apka.AssemblyInfoInputs.cache
+C:\2TP\grid apka\grid apka\obj\Debug\netcoreapp3.1\grid apka.AssemblyInfo.cs
+C:\2TP\grid apka\grid apka\obj\Debug\netcoreapp3.1\grid apka.csproj.CoreCompileInputs.cache
+C:\2TP\grid apka\grid apka\obj\Debug\netcoreapp3.1\grid apka.dll
+C:\2TP\grid apka\grid apka\obj\Debug\netcoreapp3.1\grid apka.pdb
+C:\2TP\grid apka\grid apka\obj\Debug\netcoreapp3.1\grid apka.genruntimeconfig.cache
